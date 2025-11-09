@@ -8,7 +8,7 @@
 ![Built for VR](https://img.shields.io/badge/Convai-226039?logo=convai&logoColor=white)
 
 # Finnish Hotel Of Tomorrow 2.0
-# $${\color{red}This\space is \space a \space showcase \space only, \space source \space code \space is \space not \space publicly \space available!}$$
+# $${\color{red}Showcase \space only, \space source \space code \space is \space not \space publicly \space available!}$$
 
 ***FHOT 2.0*** is a virtual reality hotel simulation I developed for **Meta Quest 3** during my internship at the ***[Helsinki XR Center](https://helsinkixrcenter.com/)***. It is a continuation of my first project, FHOT 1.0, with an expanded environment, interactions, and AI-driven interactive NPCs.
 
