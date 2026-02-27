@@ -10,7 +10,7 @@
 # Finnish Hotel Of Tomorrow 2.0
 # $${\color{red}Showcase \space only, \space source \space code \space is \space not \space publicly \space available!}$$
 
-***FHOT 2.0*** is a virtual reality hotel simulation I developed for **Meta Quest 3** during my internship at the ***[Helsinki XR Center](https://helsinkixrcenter.com/)***. It is a continuation of my first project, FHOT 1.0, with an expanded environment, interactions, and AI-driven interactive NPCs.
+***FHOT 2.0*** is a virtual reality hotel simulation I developed for **Meta Quest 3** during my internship at the ***[Helsinki XR Center](https://helsinkixrcenter.com/)***. It is a continuation of my first project, [FHOT 1.0](https://www.youtube.com/watch?v=HzUbI3jcV24), with an expanded environment, interactions, and AI-driven interactive NPCs.
 
 [Demo Video](https://github.com/user-attachments/assets/7e26f8d1-ac0b-47f4-90e2-99451f942117)
 
