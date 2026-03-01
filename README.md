@@ -29,3 +29,85 @@
 - Meta XR SDK v76 (for Quest 3 VR functionality)
 - Convai SDK v3.2.4 (for AI-powered NPC dialogue)
 
+## Script structure
+```text
+Scripts
+├── Audio
+│   ├── AudioController.cs
+│   ├── HotelRoomAudioController.cs
+│   ├── LobbyAudioController.cs
+│   ├── PhoneSFXController.cs
+│   └── RobotSFXController.cs
+│
+├── General
+│   └── HotelRoom
+│       ├── RoomModeSettings
+│       │   ├── BlindsController.cs
+│       │   ├── LightController.cs
+│       │   ├── LightToggle.cs
+│       │   ├── RoomModeController.cs
+│       │   ├── RoomModeSaveData.cs
+│       │   ├── SceneryController.cs
+│       │   └── SofaController.cs
+│       │
+│       ├── DisableCamera.cs
+│       ├── DoorController.cs
+│       ├── DoorLockController.cs
+│       ├── GameObjectHolder.cs
+│       ├── HallwayEntrySensor.cs
+│       ├── ItemInteractions.cs
+│       ├── RoomEntrySensor.cs
+│       └── RoomExitTriggers.cs
+│
+├── Lobby
+│   ├── BarTableInteractions.cs
+│   ├── CheckinController.cs
+│   └── LobbySceneInitialiser.cs
+│
+├── Player
+│   ├── LobbySpawnPointSetter.cs
+│   ├── LocomotionSaveData.cs
+│   ├── LocomotionSettings.cs
+│   ├── PhoneSpawner.cs
+│   ├── PlayerSpawnLocation.cs
+│   └── SpawnRecenter.cs
+│
+├── Robot
+│   ├── InfoJob.cs
+│   ├── IRobotJob.cs
+│   ├── LobbyWaiterJob.cs
+│   ├── RobotController.cs
+│   ├── RobotFaceController.cs
+│   ├── RobotTalkState.cs
+│   ├── RoomWaiterJob.cs
+│   └── TutorialJob.cs
+│
+├── Scenes
+│   ├── SceneLoader.cs
+│   └── SceneTypeManager.cs
+│
+├── Tutorial
+│   ├── PhoneTutorialState.cs
+│   ├── TutorialAreaTrigger.cs
+│   └── TutorialController.cs
+│
+├── UI
+│   ├── CameraNavigator.cs
+│   ├── CustomPopup.cs
+│   ├── MinimapController.cs
+│   ├── PhoneUIElements.cs
+│   ├── PhoneUIManager.cs
+│   └── RobotDisplayController.cs
+│
+├── Utilities
+│   ├── CameraWallDetection.cs
+│   ├── CharacterIdSwitcher.cs
+│   ├── DebugColor.cs
+│   ├── HapticFeedback.cs
+│   ├── OnGrabDisableTeleportation.cs
+│   ├── StartupPermissionManager.cs
+│   └── TalkController.cs
+│
+├── MenuController.cs
+└── SaunaBookingController.cs
+```
