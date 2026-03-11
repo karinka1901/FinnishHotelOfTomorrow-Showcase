@@ -21,7 +21,6 @@ FHOT 2.0 is a continuation of my first project, [FHOT 1.0](https://www.youtube.c
 *Note: Demo footage shortened to fit a 2-minute showcase limit.*
 
 ## Overview
-
 **Role:** Unity Developer  
 **Duration:** May – July 2025  
 **Team:** 4 people (1 developer, 1 artist, code lead, art lead)  
