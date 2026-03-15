@@ -28,7 +28,6 @@ FHOT 2.0 is a continuation of my first project, [FHOT 1.0](https://www.youtube.c
 **Platform:** Meta Quest 3
 
 ## My Role
-
 In this project I was responsible for implementing the core gameplay and interaction systems of the VR application in Unity.
 
 While the visual assets were created by artists on the team, I developed the gameplay systems and interaction logic and integrated them into the final experience.
